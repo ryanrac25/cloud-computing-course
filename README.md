@@ -25,6 +25,8 @@ Contents include:
 
 **Subject:** CCM 101 – Cloud Computing
 
+**Instructor:** JENKIELYN TORRES
+
 **School Year:** 2026–2027
 
 ---
@@ -46,14 +48,14 @@ cloud-computing-course/
 ## 📖 Key Concepts Covered
 
 - Cloud Computing Basics
-- Cloud Characteristics
-- Service Models
-- Deployment Models
-- Enterprise Computing
-- Virtualization
-- Linux and Windows Server
-- Version Control using Git
-- GitHub Collaboration
+
+- Service Models (IaaS, PaaS, SaaS)
+
+- Deployment Models (Public, Private, Hybrid, Community)
+
+- Version Control with Git & GitHub
+
+- Cloud Infrastructure Management
 
 ---
 
